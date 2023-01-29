@@ -1,3 +1,3 @@
-export * from './Home/index'
-export * from './Checkout/index'
-export * from './Success/index'
+export * from './Home'
+export * from './Checkout'
+export * from './Success'
